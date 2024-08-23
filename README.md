@@ -8,3 +8,6 @@ Gustavo Antônio<br>
 Kailane Lisley<br>
 Luana Lira<br>
 Samuel<br>
+### PRODUTO 
+[NAME PRODUCT] foi desenvolvida para atender às necessidades específicas das instituições universitárias na organização e gestão de eventos acadêmicos e sociais. Inspirada em soluções como plataforma de gerenciamento de eventos, a plataforma visa fornecer um sistema robusto e intuitivo para facilitar a administração de eventos, desde conferências e seminários até workshops e atividades extracurriculares para IES.
+### JIRA BOARD
