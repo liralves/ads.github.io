@@ -36,12 +36,13 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
   </p>
   
 ### BACKLOG JIRA 
-Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, e suas substacks, que serão os requisitos a serem implementados de acordo com a história de usuário escolhida.
-  <p align="center">
+<p align="justify">
+   Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, e suas substacks, que serão os requisitos a serem           implementados de acordo com a história de usuário escolhida.</p>
+<p align="center">
    <img src="https://github.com/user-attachments/assets/f9c23177-2f9c-421d-b946-241d0564ebb3"/>
   </p>
 
-  
+### SKETCHS & STORYBOARD 
 
 
 ### LICENÇA
