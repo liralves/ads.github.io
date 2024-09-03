@@ -49,8 +49,6 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 <p align="justify">
   Screecast do PROTÓTIPO FIGMA.</p>
 <p align="center">
-   <img height="310" src="">
+   <img height="310" src="SCREECAST_VIDEO(1).gif" align="left"> 
 </p>
 
-### LICENÇA
-[![licence mit](https://img.shields.io/badge/licence-MIT-blue.svg)](./LICENSE)
