@@ -39,7 +39,7 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 <p align="justify">
    Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, e suas substacks, que serão os requisitos a serem           implementados de acordo com a história de usuário escolhida.</p>
 <p align="center">
-   <img src=""/>
+   <img src="backlog_board_jira.png"/>
   </p>
 
 ### SKETCHS & STORYBOARD 
