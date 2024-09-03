@@ -49,7 +49,7 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 <p align="justify">
   Screecast do PROTÓTIPO FIGMA.</p>
 <p align="center">
-   <video src="SCREECAST_VIDEO.mp4" type="video/mp4"></video>
+   <img height="310" src="">
 </p>
 
 ### LICENÇA
