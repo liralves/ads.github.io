@@ -32,7 +32,7 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
  ### BOARD JIRA
  Quadro do JIRA explicitando as histórias de usuários com, no mínimo 01 e no máximo 03 substacks cada. Esse metódo a ser seguido torna o projeto mais simples de ser executado e implementado.
   <p align="center">
-   <img src="https://github.com/user-attachments/assets/4827a93d-20a5-49e0-8fd8-31fb6bbc2f74"/>
+   <img src="board_jira.png"/>
   </p>
   
 ### BACKLOG JIRA 
