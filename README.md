@@ -47,7 +47,8 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 
 ### SCREECAST (PROTÓTIPO) 
 <p align="justify">
-  Screecast do PROTÓTIPO FIGMA.</p>
+***InstructlyCAP: A Solução Inovadora para Gestão de Eventos Acadêmicos
+A gestão eficiente de eventos acadêmicos e sociais é essencial para o bom funcionamento das instituições de ensino superior. É pensando nessa necessidade que a InstructlyCAP foi desenvolvida, uma plataforma projetada para otimizar e simplificar a administração de eventos em universidades. Neste texto explicativo, exploraremos os principais recursos e benefícios dessa solução inovadora..</p>
 <p align="center">
    <img height="310" src="SCREECAST_VIDEO(1).gif" align="left"> 
 </p>
