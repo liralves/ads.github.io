@@ -44,6 +44,14 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 
 ### SKETCHS & STORYBOARD 
 
+<p align="justify">
+A seguir, estarão anexados os SKETCHES E STORYBOARDS das cinco primeiras histórias de usuários. <br>
+A primeira SKETCHE refere-se à primeira história de usuário, que, em resumo, refere-se à interface de cadastro e LOGIN da plataforma em desenvolvimento.    
+<p align="center">
+   <img src=""/>
+</p>
+</p>
+
 
 ### SCREECAST (PROTÓTIPO) 
 <p align="justify">
