@@ -32,15 +32,17 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
  ### BOARD JIRA
  Quadro do JIRA explicitando as histórias de usuários com, no mínimo 01 e no máximo 03 substacks cada. Esse metódo a ser seguido torna o projeto mais simples de ser executado e implementado.
   <p align="center">
-   <img src="board_jira.png"/>
+     
+   ![board do jira](static/images/board_jira.png)
   </p>
   
 ### BACKLOG JIRA 
 <p align="justify">
    Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, e suas substacks, que serão os requisitos a serem           implementados de acordo com a história de usuário escolhida.</p>
 <p align="center">
-   <img src="backlog_board_jira.png"/>
-  </p>
+   
+   ![backlog do projeto](static/images/backlog_board_jira.png)
+</p>
 
 ### SKETCHS & STORYBOARD 
 
@@ -50,34 +52,44 @@ A primeira SKETCH abaixo refere-se à primeira história de usuário, que, em re
    
 ### SKETCH & STORYBOARD 01
 <div style="display: inline-block;">
-  <img src="sketche01.jpeg" alt="Sketch da história 01" width="500"/>
-  <img src="storyboard01.jpeg" alt="Storyboard da história 01" width="500"/>
+   <img src="static/images/sketche01.jpeg" alt="sketch 1" width="400">
+   <img src="static/images/storyboard01.jpeg" alt="storyboard 1" width="400">
+</div>
+
 </div>
 Dessa forma, todos os outros SKETCHES e STORYBOARDS seguirão a mesma formatação, sendo as numerações relacionadas às histórias de usuários.
 
 ### SKETCH & STORYBOARD 02
 <div style="display: inline-block;">
-  <img src="sketche02.jpeg" alt="Sketch da história 02" width="500"/>
-  <img src="storyboard02.jpeg" alt="Storyboard da história 02" width="500"/>
+   <img src="static/images/sketche02.jpeg" alt="sketch 2" width="400">
+   <img src="static/images/storyboard02.jpeg" alt="storyboard 2" width="400">
+</div>
+
 </div>
 
 ### SKETCH & STORYBOARD 03
 <div style="display: inline-block;">
-  <img src="sketche03.jpeg" alt="Sketch da história 03" width="500"/>
-  <img src="storyboard03.jpeg" alt="Storyboard da história 03" width="500"/>
-   
+   <img src="static/images/sketche03.jpeg" alt="sketch 3" width="400">
+   <img src="static/images/storyboard03.jpeg" alt="storyboard 3" width="400">
+</div>
+
 </div>
 
 ### SKETCH & STORYBOARD 04
 <div style="display: inline-block;">
-  <img src="sketche04.jpeg" alt="Sketch da história 04" width="500"/>
-  <img src="storyboard04.jpeg" alt="Storyboard da história 04" width="500"/>
+   <img src="static/images/sketche04.jpeg" alt="sketch 4" width="400">
+   <img src="static/images/storyboard04.jpeg" alt="storyboard 4" width="400">
+</div>
+
 </div>
 
 ### SKETCH & STORYBOARD 05
 <div style="display: inline-block;">
-  <img src="sketch05.jpeg" alt="Sketch da história 05" width="500"/>
-  <img src="storyboard05.jpeg" alt="Storyboard da história 05" width="500"/>
+   
+   <img src="static/images/sketch05.jpeg" alt="sketch 5" width="400">
+   <img src="static/images/storyboard05.jpeg" alt="storyboard 5" width="400">
+</div>
+
 </div>
 
 </p>
@@ -87,7 +99,8 @@ Dessa forma, todos os outros SKETCHES e STORYBOARDS seguirão a mesma formataç�
 <p align="justify">
 SCREENCAST DO PROTÓTIPO - InstructlyCAP <BR>
 A gestão eficiente de eventos acadêmicos e sociais é essencial para o bom funcionamento das instituições de ensino superior. É pensando nessa necessidade que a InstructlyCAP está sendo desenvolvida, uma plataforma projetada para otimizar e simplificar a administração de eventos em universidades. Neste SCREENCAST, exploramos o protótipo FIGMA do desenvolvimento desse projeto. É possível observar o protótipo de INTERFACE das páginas de CADASTRO de um evento e eventos universitários. Essas são as interfaces principais para o desenvolvimento inicial desse projeto. </p>
+
 <p align="center">
-   <img height="310" src="SCREECAST_VIDEO(1).gif" align="left"> 
+   <img src="static/video/SCREECAST_VIDEO(1).gif" alt="Screencast do Protótipo" width="800">
 </p>
 
