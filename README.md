@@ -83,7 +83,7 @@ Dessa forma, todos os outros SKETCHES e STORYBOARDS seguirão a mesma formataç�
 </p>
 
 
-### SCREECAST (PROTÓTIPO) 
+### SCREENCAST (PROTÓTIPO) 
 <p align="justify">
 SCREENCAST DO PROTÓTIPO - InstructlyCAP <BR>
 A gestão eficiente de eventos acadêmicos e sociais é essencial para o bom funcionamento das instituições de ensino superior. É pensando nessa necessidade que a InstructlyCAP está sendo desenvolvida, uma plataforma projetada para otimizar e simplificar a administração de eventos em universidades. Neste SCREENCAST, exploramos o protótipo FIGMA do desenvolvimento desse projeto. É possível observar o protótipo de INTERFACE das páginas de CADASTRO de um evento e eventos universitários. Essas são as interfaces principais para o desenvolvimento inicial desse projeto. </p>
