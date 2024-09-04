@@ -57,7 +57,7 @@ Dessa forma, todos os outros SKETCHES e STORYBOARDS seguirão a mesma formataç�
 
 ### SKETCH & STORYBOARD 02
 <div style="display: inline-block;">
-  <img src="sketche01.jpeg" alt="Sketch da história 01" width="500"/>
+  <img src="sketche02.jpeg" alt="Sketch da história 02" width="500"/>
   <img src="storyboard01.jpeg" alt="Storyboard da história 01" width="500"/>
 </div>
 </p>
