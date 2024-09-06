@@ -30,15 +30,14 @@ Abaixo, é possível visualizar imagens do BOARD e BACKLOG do desenvolvimento do
 |  Facilidade de Uso   | Oferecer uma interface amigável e intuitiva, projetada para usuários com diferentes níveis de experiência em tecnologia. |
 |  Funcionalidades Específicas   | Atender às necessidades exclusivas das instituições de ensino superior.                    |
  ### BOARD JIRA
- Quadro do JIRA explicitando as histórias de usuários com, no mínimo 01 e no máximo 03 substacks cada. Esse metódo a ser seguido torna o projeto mais simples de ser executado e implementado.
-  <p align="center">
+ Quadro do JIRA que, como é possível perceber, não há Sprints iniciadas. As histórias de usuários serão encontradas no quadro do backlog. Ao longo do desenvolvimento do projeto, Sprints serão criadas e implementadas de acordo com suas funcionalidades e critérios de aceitação das histórias de usuários.
      
    ![board do jira](static/images/board_jira.png)
   </p>
   
 ### BACKLOG JIRA 
 <p align="justify">
-   Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, e suas substacks, que serão os requisitos a serem           implementados de acordo com a história de usuário escolhida.</p>
+   Parte do Backlog do projeto. O backlog específica todas as funcionalidades e requisitos do software que serão implementados ao longo do desenvolvimento do projeto. Existem, como vimos, as hitsórias de usuários, suas substacks e seus critérios de aceitação, que serão os requisitos a serem implementados de acordo com a história de usuário escolhida e com base nos 3 C's (Cartão, Comnversa e Confirmação)</p>
 <p align="center">
    
    ![backlog do projeto](static/images/backlog_board_jira.png)
