@@ -98,9 +98,20 @@ Dessa forma, todos os outros SKETCHES e STORYBOARDS seguirão a mesma formataç�
 ### SCREENCAST (PROTÓTIPO) 
 <p align="justify">
 SCREENCAST DO PROTÓTIPO - InstructlyCAP <BR>
-A gestão eficiente de eventos acadêmicos e sociais é essencial para o bom funcionamento das instituições de ensino superior. É pensando nessa necessidade que a InstructlyCAP está sendo desenvolvida, uma plataforma projetada para otimizar e simplificar a administração de eventos em universidades. Neste SCREENCAST, exploramos o protótipo FIGMA do desenvolvimento desse projeto. É possível observar o protótipo de INTERFACE das páginas de CADASTRO de um evento e eventos universitários. Essas são as interfaces principais para o desenvolvimento inicial desse projeto. </p>
+A gestão eficiente de eventos acadêmicos e sociais é essencial para o bom funcionamento das instituições de ensino superior. É pensando nessa necessidade que a InstructlyCAP está sendo desenvolvida, uma plataforma projetada para otimizar e simplificar a administração de eventos em universidades. Neste SCREENCAST, exploramos o protótipo FIGMA do desenvolvimento desse projeto. É possível observar o protótipo de INTERFACE das páginas de CADASTRO de um evento e eventos universitários. Essas são as interfaces principais para o desenvolvimento inicial desse projeto. 
+   
+Para acessar este projeto no Figma, [clique aqui.](https://www.figma.com/proto/O2XD4ivdYnsiZH6sA1UrVT/A.D.S.-%7C-Project?node-id=5-81&t=igUQKOXjtAgmoqxz-1&starting-point-node-id=5%3A81)
+</p>
 
-<p align="center">
+<p align="left">
    <img src="static/video/SCREECAST_VIDEO(1).gif" alt="Screencast do Protótipo" width="800">
 </p>
 
+### TECNOLOGIAS UTILIZADAS
+As seguintes ferramentas estão atualmente sendo utilizadas na construção desse projeto:
+
+- [Python 3.10](https://www.python.org/downloads/)
+- [Pycharm Community JETBRAIN IDE](https://www.jetbrains.com/pycharm/)
+- [Django Framework](https://www.djangoproject.com/start/)
+- [SQLite DB Browser](https://www.sqlite.org/)
+- [Bootstrap Framework](https://getbootstrap.com/)
