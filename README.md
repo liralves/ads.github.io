@@ -1,3 +1,10 @@
+<div style="display: inline-block;">
+   
+![shields-commit](https://img.shields.io/badge/last_commit-today-blue?style=flat-square/liralves/analise-e-projeto-de-software)
+![shields-issues](https://img.shields.io/badge/issues-_0_open-blue?style=flat-square/liralves/analise-e-projeto-de-software) 
+
+</div>
+
 # UNIVERSIDADE CATÓLICA DE PERNAMBUCO
 <p align="center">
    <img src="http://www1.unicap.br/icam/wp-content/uploads/2019/06/marca_nova.svg" />
