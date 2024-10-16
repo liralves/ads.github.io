@@ -15,7 +15,7 @@
 * [Descrição do Projeto](#descrição-do-projeto)
 * [Desenvolvimento do Projeto](#desenvolvimento-do-projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Acesso ao Projeto](#acesso-ao-projeto-&-deployment)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -132,10 +132,34 @@ No ambiente de versionamento do código, a estruturação e desenvolvimento est�
 ![issue e bug-tracker do sistema](static/images/issue1.png)
 </p>
 
-### DEPLOYMENT 
+### SCREENCAST DA PLATAFORMA 
+<p align="justify">
+Na SCREENCAST fornecida, é possível visualizar o comportamento do sistema que está sendo desenvolvido. Nele, podemos ver as implementações das três histórias de usuários da primeira SPRINT, refletindo, dessa forma, uma entrega condizente com as metas propostas.
+</p>
+
+### ACESSO AO PROJETO & DEPLOYMENT
+<p align="justify"> 
+   
+Para obter acesso direto à hospedagem deste projeto, faremos isto através do link disponível clicando [AQUI](https://liralves.github.io/ads.github.io/). Neste link, é possível observar que a hospedagem se dá através do GitHub Pages, oferecendo um site simples mas funcional para nossos objetivos. No entanto, como ainda não temos os códigos necessários neste repositório, temos uma alternativa para acessar localmentte este projeto.
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+<br> [Git](https://git-scm.com),
+[Python](https://www.python.org/downloads/),
+[Django](https://www.djangoproject.com/start/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+#### RODANDO O PROJETO LOCALMNTE (NA SUA MÁQUINA)
+```
+CLONE ESTE REPOSITÓRIO
+
+$ git clone <>
+
+```
+</p>
 <p align="justify">
 
 
 </p>
+
 
 
