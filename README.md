@@ -129,7 +129,13 @@ As seguintes ferramentas estão atualmente sendo utilizadas na construção dess
 <p align="justify">
 No ambiente de versionamento do código, a estruturação e desenvolvimento está demonstrada através dos SHIELDS disponíveis no canto superior deste README. Ao atualizar com commits, o SHIELDS é atualizado para a sua versão de commit mais recente. Desta forma, é possível verificar a frequência de commits e atualizações deste projeto. O mesmo acontece para as atualizações de ISSUES e BUG TRACKER do sistema. A cada nova abertura de ISSUEs, o SHIELDS é atualizado para a quantidade de ISSUES abertos.  
    
-![issue e bug-tracker do sistema](static/images/issue-bug-tracker.png)
+![issue e bug-tracker do sistema](static/images/issue1.png)
+</p>
+
+### DEPLOYMENT 
+<p align="justify">
+
+
 </p>
 
 
