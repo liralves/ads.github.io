@@ -131,8 +131,13 @@ As seguintes ferramentas estão atualmente sendo utilizadas na construção dess
 
 #### DIAGRAMA DE ATIVIDADES 
 <div style="display: inline-block;">
-   <img src="static/images/sketche01.jpeg" alt="sketch 1" width="400">
-   <img src="static/images/storyboard01.jpeg" alt="storyboard 1" width="400">
+   <img src="static/images/d1.jpeg" alt="Diagrama 1" width="400">
+   <img src="static/images/d2.jpeg" alt="Diagrama 2" width="400">
+   <img src="static/images/d3.jpeg" alt="Diagrama 3" width="400">
+   <img src="static/images/d4.jpeg" alt="Diagrama 4" width="400">
+   <img src="static/images/d5.jpeg" alt="Diagrama 5" width="400">
+   <img src="static/images/d6.jpeg" alt="Diagrama 6" width="400">
+   <img src="static/images/d7.jpeg" alt="Diagrama 7" width="400">
 </div>
 
 # FUNCIONALIDADES E DEMONSTRAÇÃO DA APLICAÇÃO
@@ -163,11 +168,33 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 #### RODANDO O PROJETO LOCALMNTE (NA SUA MÁQUINA)
 ```
 CLONE ESTE REPOSITÓRIO
-
-$ git clone <>
-
+$ git clone <https://github.com/liralves/ads.github.io.git>
 ```
+Após fazer o CLONE do repositório, vamos navegar até o diretório do projeto
+```
+$ cd ads.github.io.git
+```
+Após isso, vamos criar um ambiente virtual para isolar as dependências do projeto. Execute o seguinte comando para criar o ambiente virtual:
+```
+$ pythom -m venv venv
+```
+Navegue até o Scripts e ative o ambiente virtual
+```
+$ cd Scripts
+$ venv\Scripts\activate
+```
+Agora, vamos rodar o servidor localmente
+```
+python manage.py runserver
+```
+Se tudo estiver rodando normalmente e não ocorrer erros, você vera uma URL no terminal, parecida com isto:
+```
+http://127.0.0.1:8000/
+```
+Navegue até a URL e pronto.
 </p>
+
+### QUADRO SPRINT FINALIZADO 
 <p align="justify">
 
 
