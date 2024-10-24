@@ -196,8 +196,7 @@ Navegue até a URL e pronto.
 
 ### QUADRO SPRINT FINALIZADO 
 <p align="justify">
-
-
+<img src="static/images/sprint_concluida.jpeg" alt="SPRINT 1" width="1000">
 </p>
 
 
