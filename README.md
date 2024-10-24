@@ -146,6 +146,7 @@ No ambiente de versionamento do código, a estruturação e desenvolvimento est�
 ### SCREENCAST DA PLATAFORMA 
 <p align="justify">
 Na SCREENCAST fornecida, é possível visualizar o comportamento do sistema que está sendo desenvolvido. Nele, podemos ver as implementações das três histórias de usuários da primeira SPRINT, refletindo, dessa forma, uma entrega condizente com as metas propostas.
+<img src="static/video/screencast_instructly.gif" alt="Screencast da plataforma" width="800">
 </p>
 
 ### ACESSO AO PROJETO & DEPLOYMENT
