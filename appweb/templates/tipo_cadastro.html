@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Escolha o tipo de cadastro</title>
+</head>
+<body>
+    <h1>Escolha o tipo de cadastro</h1>
+    <form method="POST">
+        {% csrf_token %}
+        <button type="submit" name="tipo" value="estudante">Sou Estudante</button>
+        <button type="submit" name="tipo" value="professor">Sou Professor</button>
+    </form>
+</body>
+</html>

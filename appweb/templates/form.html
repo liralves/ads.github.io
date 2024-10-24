@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Formulários</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="stylesheet.css">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container" id="container">
+        <div class="form-container sign-in">
+            <form method="POST" action="{% url 'login' %}"> <!-- Atualizado para enviar para a view de login -->
+                {% csrf_token %}
+                <h1>Entrar</h1>
+                <div style="display: flex; align-items: center;">
+                    <input type="email" name="email" placeholder="Email" required style="margin-right: 10px;"> <!-- Adicionando o atributo name -->
+                    <input type="password" name="senha" placeholder="Senha" required style="margin-right: 10px;"> <!-- Adicionando o atributo name -->
+                    <button type="submit">Entrar</button> <!-- Adicionando type="submit" -->
+                </div>
+                {% if error %}
+                    <div class="alert alert-danger mt-3">{{ error }}</div> <!-- Mensagem de erro -->
+                {% endif %}
+                <a href="#" style="display:block; margin-top:10px;">Esqueceu sua senha?</a>
+            </form>
+        </div>
+        <div class="toggle-container">
+            <div class="toggle">
+                <div class="toggle-panel toggle-left">
+                    <div class="social-icons">
+                        <a href="#" class="icon"><i class="fa-brands fa-google-plus-g"></i></a>
+                        <a href="#" class="icon"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="#" class="icon"><i class="fa-brands fa-github"></i></a>
+                        <a href="#" class="icon"><i class="fa-brands fa-linkedin-in"></i></a>
+                    </div>
+                </div>
+                <div class="toggle-panel toggle-right">
+                    <h1>Não tem cadastro?</h1>
+                    <p>Cadastre-se com seus dados pessoais para usar todos os recursos do site</p>
+                    <button class="hidden" id="tipo_cadastro" onclick="window.location.href='{% url 'tipo_cadastro' %}'">Cadastrar-se</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <div class="col-8 m-auto pt-2 pb-2 text-center back-button">
+        <a href="/" class="btn btn-info">Voltar</a>
+    </div>
+
+</body>
+</html>

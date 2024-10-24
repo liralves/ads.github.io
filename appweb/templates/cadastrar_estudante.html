@@ -1,0 +1,35 @@
+<!-- templates/cadastrar_estudante.html -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Cadastrar Estudante</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+
+    <div class="container mt-5">
+        <h1>Cadastrar Estudante</h1>
+        <form method="POST" action="{% url 'cadastrar_estudante' %}">
+            {% csrf_token %}
+            {{ form.as_p }}
+            <!-- Adiciona esta seção para mostrar mensagens de erro -->
+            {% if form.errors %}
+                <div class="alert alert-danger" role="alert">
+                    <ul>
+                        {% for field, errors in form.errors.items %}
+                            {% for error in errors %}
+                                <li>{{ error }}</li>
+                            {% endfor %}
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+            <button type="submit" class="btn btn-primary">Cadastrar</button>
+        </form>
+        <a href="{% url 'form' %}" class="btn btn-info mt-2">Voltar</a>
+    </div>
+
+</body>
+</html>
