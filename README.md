@@ -123,10 +123,17 @@ As seguintes ferramentas estão atualmente sendo utilizadas na construção dess
 - [Bootstrap Framework](https://getbootstrap.com/)
 
 ### DIAGRA DE ATIVIDADES DO SISTEMA
+#### DIAGRAMA DE CLASSES
 <p align="justify">
    
 ![Diagrama de Classes](static/images/diagrama_classes.jpg)
 </p>
+
+#### DIAGRAMA DE ATIVIDADES 
+<div style="display: inline-block;">
+   <img src="static/images/sketche01.jpeg" alt="sketch 1" width="400">
+   <img src="static/images/storyboard01.jpeg" alt="storyboard 1" width="400">
+</div>
 
 # FUNCIONALIDADES E DEMONSTRAÇÃO DA APLICAÇÃO
 ### AMBIENTE DE VERSIONAMENTO | ISSUE E BUG TRACKER
